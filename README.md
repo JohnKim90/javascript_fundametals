@@ -1,1 +1,1 @@
-# javascript_fundametals
+# javascript_fundametals  learning javascript language
